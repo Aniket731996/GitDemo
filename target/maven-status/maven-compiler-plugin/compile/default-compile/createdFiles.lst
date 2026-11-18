@@ -1,0 +1,8 @@
+AniketMayekar\pageobjects\LandingPage.class
+AniketMayekar\resources\ExtentReporterNG.class
+AniketMayekarAbstractComponents\AbstractComponents.class
+AniketMayekar\pageobjects\ConfirmationPage.class
+AniketMayekar\pageobjects\cartPage.class
+AniketMayekar\pageobjects\checkOutPage.class
+AniketMayekar\pageobjects\OrderPage.class
+AniketMayekar\pageobjects\productCatalogue.class

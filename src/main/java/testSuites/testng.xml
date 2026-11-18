@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+ <listeners>
+        <listener class-name="AniketMayekar.TestComponents.Listerners"/>
+    </listeners>
+  <test thread-count="5" name="Submit Order Test">
+    <classes>
+      <class name="AniketMayekar.tests.SubmitOrderTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="Error Validations Test">
+    <classes>
+      <class name="AniketMayekar.tests.ErrorValidationsTest"/>
+    </classes>
+  </test> 
+  
+</suite> <!-- Suite -->
